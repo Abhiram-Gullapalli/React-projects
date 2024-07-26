@@ -1,0 +1,31 @@
+{
+  "name": "react-tutorial-1",
+  "version": "1.0.0",
+  "description": "React learnings",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhiram-Gullapalli/React-projects.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Abhiram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhiram-Gullapalli/React-projects/issues"
+  },
+  "homepage": "https://github.com/Abhiram-Gullapalli/React-projects#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
